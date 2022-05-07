@@ -13,6 +13,7 @@
 > | ------------- | ------------- |
 > | 01/24/2018 | Basics of HTML |
 > | 02/07/2018 | Units & Padding |
+> | 02/14/2018 | Restaurant Menu |
 > | 02/28/2018 | JS & Flexbox |
 > | 03/07/2018 | Colorbars, Flex Row & Loops |
 > | 03/14/2018 | Event Listeners & Range |
