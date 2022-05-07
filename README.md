@@ -26,12 +26,13 @@
 ## 🏠 Homework
 > | Assignment  | Objective |
 > | ------------- | ------------- |
-> | [Handwritten Code](homework/handwritten-code/) | Writing HTML by hand |
-> | [Mondrian Square](homework/mondrian/) | Build a Mondrian Square in CSS |
-> | [Restaurant Menu](homework/menu/) | Creating a simple menu |
-> | [Intro to Java](homework/java/) | Console logging information |
-> | [Generative](homework/color-bars/) | Color Bars with JS |
-> | [JSON](homework/json/) | Make a JSON file with information about yourself |
+> | [Handwritten Code](homework/1_handwritten-code/) | Writing HTML by hand |
+> | [Mondrian Square](homework/2_mondrian/) | Build a Mondrian Square in CSS |
+> | [Restaurant Menu](homework/3_menu/) | Creating a simple menu |
+> | [Intro to Java](homework/4_java/) | Console logging information |
+> | [Generative](homework/5_color-bars/) | Color Bars with JS |
+> | [JSON](homework/6_json/) | Make a JSON file with information about yourself |
+> | [La Haine Frames – Final](homework/7_lahaine/) | Make a JSON file with information about yourself |
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
