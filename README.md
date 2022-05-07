@@ -1,12 +1,12 @@
 # `📚` Core Lab Interaction
 > *Parsons School of Design<br>
 > BFA Communication Design<br>
-> Spring 2018*
+> Spring 2018*<br>
+> *wednesday / 9:00 – 11:40 am*
 ## `📖` Summary
 > repository containing classwork and homework<br>
 > class taught by [Robby Kraft](https://github.com/robbykraft)<br>
-> class taught in conjunction with Core Studio Interaction by [Lukas Eigler-Harding](https://github.com/leigler)<br>
-> *wednesday / 9:00 – 11:40 am*
+> class taught in conjunction with Core Studio Interaction by [Lukas Eigler-Harding](https://github.com/leigler)
 ---
 ## 🚌 Classwork
 > | Date  | Lesson |
