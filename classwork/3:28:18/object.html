@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	// <!-- objects are a pair of a description (often called 'the key') and the variable (often called 'value') -->
+
+	//inside an array order MATTERS, inside objects order doesnt matter
+// array uses []
+
+// object uses {}
+
+// key comes first!
+
+var weather = {
+	"temperature" : 48.15,
+	"chanceofrain" : .1,
+	"humidity": .5
+}
+
+console.log(weather);
+//how u pull a variable out of an object
+console.log(weather["temperature"]);
+
+var doublearray = [
+["apple", "pear"],
+["strawyberry", "blueberry"],
+["potato", "leek"]
+];
+
+console.log(doublearray[1][1]);
+
+var innerArray = doublearray[1];
+console.log(innerArray[1]);
+
+var classmates = {
+	"Leo" : {
+		"breakfast" : "bagel with cream cheese",
+		"animal" : "scorpion"
+	},
+	"Ana" : {
+		"breakfast": "lox bagel",
+		"animal": "pig"
+	},
+	"Robby" : {
+		"breakfast" : "scrambled eggs",
+		"animal" : "elephant"
+	}
+}
+
+console.log(classmates);
+
+console.log(classmates["Leo"]["animal"])
+
+	</script>
+
+</body>
+</html>

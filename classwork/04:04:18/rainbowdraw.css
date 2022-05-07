@@ -1,0 +1,9 @@
+html, body {margin:0;}
+
+
+div {
+	position:absolute;
+	width:150px;
+	height:150px;
+	border-radius:100px;
+}

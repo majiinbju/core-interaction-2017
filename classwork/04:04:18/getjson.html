@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script
+  	src="https://code.jquery.com/jquery-3.3.1.min.js"
+  	integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+ 	crossorigin="anonymous">
+ </script>
+</head>
+<body>
+
+<script>
+
+	var url = "https://api.citybik.es/v2/networks/citi-bike-nyc";
+	
+	var myLat = 40.7362553;
+
+	var myLon = -73.9924972;
+
+	// reference: /*$.getJSON(url, function(){});*/
+	$.getJSON( url, function(data){
+		
+	
+	/*console.log(data);*/
+	
+	//var stations = data.network.stations;
+
+
+	//sorting the stations
+	var stations = data.network.stations.sort(function(a, b){
+		
+		var latA = Math.abs( a.latitude - myLat );
+		var lonA = Math.abs( a.longitude - myLon);
+
+		var latB = Math.abs( b.latitude - myLat );
+		var lonB = Math.abs( b.longitude - myLon);
+
+		return (latA+lonA) - (latB + lonB);
+	});
+		
+
+		/*console.log(stations);*/
+
+		/*var i = 0;
+		while(i<809){
+			i = i + 1;
+		}*/
+
+		// for loop and while loop can be used for the same purpose
+
+		//use stations.length instead of 809 because Citi Bike's database is expanding daily
+
+	
+
+	//name of all stations
+	/*for(var i = 0; i < stations.length; i = i + 1){
+		console.log(stations [i].name );
+		}*/
+
+
+	for(var i = 0; i < stations.length; i = i + 1){
+		console.log(stations [i].name );
+		var p = document.createElement("p");
+		p.innerHTML = stations[i].free_bikes + " : " + stations [i].name;
+		document.body.appendChild(p);
+		}
+
+	} );
+
+
+
+
+
+</script>
+
+</body>
+</html>

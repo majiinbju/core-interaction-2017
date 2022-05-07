@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<style>
+		
+		div{
+			position:absolute;
+		}
+
+	</style>
+
+
+</head>
+<body>
+
+</body>
+
+<script>
+
+	//a function is a bit of code that lives somewhere else that you can ask the computer to do. Benefit is that it has a specific function, you can stick it anywhere, making your code less confusing.
+	//E.g. Math.(random()
+	//document.getElementById()
+	//getHeight()
+	//parseInt()
+
+	//let's make a function
+
+	/*function randomInt(){
+		var random = parseInt(Math.random()*100)
+		return random;
+	}
+
+
+	console.log( randomInt() );
+
+	var myInt = randomInt();
+	console.log( myInt ) ;*/
+
+	function randomInt(low, high){
+		var random = parseInt(Math.random() * (high-low) + low);
+		return random;
+	}
+
+	var myInt = randomInt(-100, 100);
+
+	console.log( myInt ) ;
+
+</script>
+
+
+
+</html>

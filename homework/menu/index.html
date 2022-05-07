@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Kaldi's Cafe</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Prompt 400, 700|Quattrocento" rel="stylesheet">
+
+</head>
+
+<style>
+
+* { 
+vertical-align: top;
+box-sizing: border-box; }
+
+body {
+	overflow:scroll;
+	overflow-y:scroll;
+	margin:0;
+	width: 100%;
+	height: 100%;
+
+}
+
+
+ul {
+	pointer-events: none;
+	list-style: none;
+	font-family: 'Prompt', sans-serif;
+	font-size:24px;
+	letter-spacing: 5px;
+	margin-left:20.5vmin;
+	margin-right:25vmin;
+	color:#535353;
+	margin-top:10%;
+
+}
+
+li {
+	margin-top:10%;
+}
+
+#price{
+	margin-left:10%;
+	margin-top:2.5%;
+	display:inline-block;
+	font-size:16px;
+	font-family: 'Prompt', sans-serif;
+	font-weight:700;
+	color:#FF6F6F;
+
+}
+
+.header{
+	position:fixed;
+	width:100%;
+	height:10%;
+	display:inline-block;
+	background-color:#F7F6F6;
+	transition: background-color 0.75s ease-in-out;
+}
+
+.header:hover{
+	background-color:#535353;
+	transition: background-color 0.75s ease-in-out;
+
+}
+
+.wrapper{
+	box-sizing: border-box;
+	width:100%;
+	height:100%;
+	display:inline-block;
+	background-color:#FAFAFA;
+	position:absolute;
+	border:none;
+	float: left;
+}
+
+.left{
+	width:50%;
+	height:90%;
+	bottom:0;
+	position:absolute;
+	display:block;
+	float: left;
+	background-color:#F2F2F2;
+	transition: background-color 0.75s ease-in-out;
+}
+
+.left:hover{
+	background-color:#FAFAFA;
+	transition: background-color 0.75s ease-in-out;
+}
+
+.right{
+	width:50%;
+	height:90%;
+	bottom:0;
+	right:0;
+	position:absolute;
+	display:inline-block;
+	float: left;
+	background-color:#F2F2F2;
+	transition: background-color 0.75s ease-in-out;
+}
+
+.right:hover{
+	background-color:#FAFAFA;
+	transition: background-color 0.75s ease-in-out;
+}
+
+
+h2 {
+	font-family: 'Quattrocento', serif;
+	font-size:36px;
+	color:#FF6F6F;
+	letter-spacing: 5px;
+	position:absolute;
+	margin-left:0.95em;
+	transition: color 1s ease-in-out;
+}
+
+h2:hover {
+	color:#FF3333;
+	transition: color 1s ease-in-out;
+}
+
+h3 {
+	font-family: 'Quattrocento', serif;
+	font-size:72px;
+	color:#FF5454;
+	letter-spacing: 5px;
+	margin-left:25vmin;
+	margin-right:25vmin;
+	margin-bottom:5%;
+	position:relative;
+	pointer-events: none;
+}
+
+
+
+a {
+	color:#FF6F6F;
+	transition: color 1s ease-in-out;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#FF3333;
+	transition: color 1s ease-in-out;
+}
+
+@media screen and (max-width: 600px){
+
+    .left{
+     	min-width:100%;
+     	float: none;
+    }
+    .right{
+    	max-width:100%;
+    	float: none;
+    }
+
+    .header{
+    	min-height:20%;
+    }
+
+    .wrapper {
+    	float: none;
+    }
+}
+
+</style>
+
+
+<body>
+
+<div class="wrapper">
+
+
+<div class="right">
+	
+	<h3>BREAD</h3>
+
+	<ul>
+
+		<li>Crossaint <div id="price">$2.85</div> </li></li>
+		<li>Danish <div id="price">$4.20</div> </li></li>
+		<li>Plumcake <div id="price">$5.00</div> </li></li>
+		<li>Muffin <div id="price">$3.05</div> </li></li>
+		<li>Cake <div id="price">$2.65</div> </li></li>
+
+
+	</ul>
+
+
+
+</div>
+
+<div class="left">
+	
+	<h3>COFFEE</h3>
+
+		<ul>
+
+			<li>Cappucino <div id="price">$2.95</div> </li>
+			<li>Macchiato <div id="price">$3.80</div> </li></li>
+			<li>Espresso <div id="price">$3.25</div> </li></li>
+			<li>Java Chip <div id="price">$4.25</div> </li></li>
+			<li>Mocha <div id="price">$3.70</div> </li></li>
+
+
+		</ul>
+
+
+
+</div>
+
+	
+<div class="header">
+	
+<h2>
+	<a href="index.html">
+		KALDI'S CAFE
+	</a>
+</h2>
+
+</div>
+
+
+</div>
+
+
+</body>
+
+
+</html>

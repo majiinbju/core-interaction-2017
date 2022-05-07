@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+
+</body>
+
+<script>
+//this is where you type javascript
+
+var anumber = 5;
+var astring = "vivek";
+//string has quotes
+var abool = 5 <= 5;
+var avariable;
+//is the same thing as saying: var avariable = undefined;
+var integer = 6;
+var float = 3.14159;
+var high = Infinity;
+var low = -Infinity;
+var veryHigh=1000000000000000000000000000000000000000000000000000;
+var s = "🤬";
+
+/*console.log(abool);
+console.log(anumber);
+console.log(astring);
+console.log(avariable);
+console.log(veryHigh);
+console.log(s);*/
+
+/////////////
+
+var leftleft = "Robby";
+var left = "Leo";
+var me = "Vivek";
+var right = "Carolyn<3";
+var rightright = "Simone";
+
+var classmates = [];
+//empty array (container)
+
+/*var classmates = ["Robby", "Leo", "Vivek", "Carolyn<3", "Simone"];*/
+
+var classmates = [leftleft, left, me, right, rightright];
+//works the same as the above string
+
+console.log(classmates);
+
+console.log(classmates[3] + 6)
+console.log(classmates[0]);
+//classmates[3] will show "Carolyn<3" because computers start counting from 0;
+//classmates[0] will show Robby
+
+classmates.push("Taylor");
+
+console.log (classmates);
+
+/////////////////////////////////
+
+/*var randomnumber = Math.random();*/
+var randomnumber = Math.random() * 6;
+
+randomnumber = parseInt(randomnumber);
+//chop off the numbers after the decimal (like rounding off but it doesn't round up);
+
+console.log(randomnumber);
+//goal is to turn this random number into an integer between 0 and 5
+
+var randomClassmate = classmates[randomnumber];
+
+document.body.innerHTML = randomClassmate;
+
+
+
+</script>
+</html>
