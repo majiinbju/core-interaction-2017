@@ -1,8 +1,8 @@
 # `📚` Core Lab Interaction
 > *Parsons School of Design<br>
-> communication design<br>
-> spring 2018<br>
-> wednesday / 9:00 – 11:40 am*
+> Communication Design<br>
+> Spring 2018<br>
+> Wednesday / 9:00 – 11:40 am*
 ## `📖` Summary
 > repository containing classwork and homework<br>
 > class taught by [Robby Kraft](https://github.com/robbykraft)<br>
