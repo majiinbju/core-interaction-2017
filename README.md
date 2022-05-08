@@ -32,7 +32,7 @@
 > | [Intro to Java](homework/4_java/) | Console logging information |
 > | [Generative](homework/5_color-bars/) | Color Bars with JS |
 > | [JSON](homework/6_json/) | Make a JSON file with information about yourself |
-> | [La Haine Frames – Final](homework/7_lahaine/) | Make a JSON file with information about yourself |
+> | [La Haine Frames – Final](homework/7_lahaine/) | Append JSON to Site |
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
