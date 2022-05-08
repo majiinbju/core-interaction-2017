@@ -1,8 +1,8 @@
 # `📚` Core Lab Interaction
 > *Parsons School of Design<br>
-> communication design<br>
-> spring 2018<br>
-> wednesday / 9:00 – 11:40 am*
+> Communication Design<br>
+> Spring 2018<br>
+> Wednesday / 9:00 – 11:40 am*
 ## `📖` Summary
 > repository containing classwork and homework<br>
 > class taught by [Robby Kraft](https://github.com/robbykraft)<br>
@@ -13,6 +13,7 @@
 > | ------------- | ------------- |
 > | 01/24/2018 | Basics of HTML |
 > | 02/07/2018 | Units & Padding |
+> | 02/14/2018 | Restaurant Menu |
 > | 02/28/2018 | JS & Flexbox |
 > | 03/07/2018 | Colorbars, Flex Row & Loops |
 > | 03/14/2018 | Event Listeners & Range |
@@ -25,12 +26,13 @@
 ## 🏠 Homework
 > | Assignment  | Objective |
 > | ------------- | ------------- |
-> | [Handwritten Code](homework/handwritten-code/) | Writing HTML by hand |
-> | [Mondrian Square](homework/mondrian/) | Build a Mondrian Square in CSS |
-> | [Restaurant Menu](homework/menu/) | Creating a simple menu |
-> | [Intro to Java](homework/java/) | Console logging information |
-> | [Generative](homework/color-bars/) | Color Bars with JS |
-> | [JSON](homework/json/) | Make a JSON file with information about yourself |
+> | [Handwritten Code](homework/1_handwritten-code/) | Writing HTML by hand |
+> | [Mondrian Square](homework/2_mondrian/) | Build a Mondrian Square in CSS |
+> | [Restaurant Menu](homework/3_menu/) | Creating a simple menu |
+> | [Intro to Java](homework/4_java/) | Console logging information |
+> | [Generative](homework/5_color-bars/) | Color Bars with JS |
+> | [JSON](homework/6_json/) | Make a JSON file with information about yourself |
+> | [La Haine Frames – Final](homework/7_lahaine/) | Append JSON to Site |
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
