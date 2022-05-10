@@ -4,7 +4,7 @@
 > Spring 2018<br>
 > Wednesday / 9:00 – 11:40 am*
 ## `📖` Summary
-> Repository containing classwork and homework for Core Interaction Lab, Spring 2018<br>
+> repository containing classwork and homework for Core Interaction Lab, Spring 2018<br>
 > class taught by [Robby Kraft](https://github.com/robbykraft)<br>
 > class taught in conjunction with [Core Studio Interaction](https://github.com/majiinbju/core-interaction-studio-2018) by [Lukas Eigler-Harding](https://github.com/leigler)
 ---
