@@ -1,0 +1,136 @@
+/* code to debugs */
+
+/*
+* {
+   outline: 1px solid red !important;
+   opacity: 1 !important;
+   visibility: visible !important
+}
+*/
+
+/* body styles */
+
+body {
+	font-family: "Inter", sans-serif;
+	margin: 0rem;
+	padding: none;
+	font-size: 2rem;
+	background: black;
+	color: white;
+}
+
+/* header stylings */
+
+h1 {
+	text-decoration: underline;
+	font-family: "Koulen", cursive;
+	font-size: 3rem;
+	margin: 0rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+li {
+	list-style: none;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	z-index: 2;
+	border-bottom: 2px solid;
+	background-color: black;
+}
+
+.header > nav > ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+.header > nav > ul > li {
+	border: 2px solid white;
+	border-radius: 20px;
+	padding: 0.5rem;
+	margin-right: 1rem;
+}
+
+/* container stylings */
+
+.container {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: 0rem;
+	display: flex;
+}
+
+section {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50%;
+	height: 100%;
+}
+
+/* section/menu stylings */
+
+.menu-items > li {
+	margin: 2rem 0rem 2rem 0rem;
+}
+
+.left {
+	border-right: 1px solid white;
+}
+
+.right {
+}
+
+/* Media Queries for Mobile */
+
+@media only screen and (max-width: 390px) {
+	body {
+		font-size: 1.5rem;
+	}
+
+	.header {
+		margin: 0rem;
+		padding: 0rem;
+		width: 390px;
+		font-size: 0.75rem;
+	}
+
+	h1 {
+		padding: 1rem;
+		font-size: 2rem;
+		margin-left: 0.5rem;
+		margin-right: 0rem;
+	}
+
+	ul {
+		padding-left: 0rem;
+	}
+
+	.container {
+		width: 100vw;
+		position: relative;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.left {
+		border-right: none;
+		border-bottom: 2px solid white;
+	}
+
+	li {
+		list-style: none;
+		/*margin-left: 1rem;*/
+	}
+
+	section {
+		width: 100%;
+		height: 50%;
+	}
+}

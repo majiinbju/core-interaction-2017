@@ -1,27 +1,20 @@
 {
-	"name" : ["Vivek", "Arvind", "Bajaj"],
-
-	"home" : {
-		"latitude":39.1377573,
-		"longitude":-84.5055621
-	},
-
-	"url" :  "https://www.vivekbajajdes.com" ,
-
-	"favorites":{
-		
-		"colour":"#fdff3c",
-		
-		"books": {
-			"title":"Kafka On The Shore",
-			"author":"Haruki Murakami"
-		},
-
-
-		"tool":"Adobe InDesign",
-
-		"temperature" : 28
-
-	}
-	
+    "name": ["vivek", "bajaj"],
+    "home":
+    {
+        "latitude": 39.1377573,
+        "longitude": -84.5055621
+    },
+    "url": "https://bajju.info",
+    "favorites":
+    {
+        "colour": "#fdff3c",
+        "books":
+        {
+            "title": "kafka on the shore",
+            "author": "Haruki Murakami"
+        },
+        "tool": "Sublime",
+        "temperature": 59
+    }
 }
