@@ -34,6 +34,8 @@
 > | [JSON](homework/6_json/) | Make a JSON file with information about yourself |
 > | [La Haine Frames – Final](homework/7_lahaine/) | Append JSON to Site |
 ---
+## 🪪 License
+This repository is under the [MIT License](LICENSE.md)
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
 > [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
