@@ -26,7 +26,7 @@ h1 {
 	font-family: "Koulen", cursive;
 	font-size: 3rem;
 	margin: 0rem;
-	margin-left: 1rem;
+	margin-left: 2rem;
 	margin-right: 1rem;
 }
 
@@ -67,6 +67,7 @@ li {
 }
 
 section {
+	position: relative;
 	display: flex;
 	align-items: center;
 	justify-content: center;

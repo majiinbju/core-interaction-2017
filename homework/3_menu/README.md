@@ -13,6 +13,7 @@
 ---
 ## `🧪` Results
 ![Cafe Menu](cafe-menu.png)
+![Cafe Menu](cafe-menu-mobile.png)
 ---
 ## `✅` Requirements
 > - The painting should be recreated entirely using `<div>` colored with CSS background-color.
