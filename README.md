@@ -6,7 +6,7 @@
 ## `📖` Summary
 > repository containing classwork and homework<br>
 > class taught by [Robby Kraft](https://github.com/robbykraft)<br>
-> class taught in conjunction with Core Studio Interaction by [Lukas Eigler-Harding](https://github.com/leigler)
+> class taught in conjunction with [Core Studio Interaction](https://github.com/majiinbju/core-interaction-studio-2018) by [Lukas Eigler-Harding](https://github.com/leigler)
 ---
 ## 🚌 Classwork
 > | Date  | Lesson |
