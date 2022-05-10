@@ -7,14 +7,13 @@
 > 
 ---
 ## `🎯` Objective
-> Create an empty .html file with this code:<br>
-`<!DOCTYPE html>`<br>
-`<html>`<br>
-`<body>`<br>
-`</body>`<br>
-`<script>`<br>
-`</script>`<br>
-`</html>`
+> Create an empty .html file with this code:
+```html
+<html>
+<body></body>
+<script></script>
+</html>
+```
 ---
 ## `🧪` Results
 ![Console Log](console-log.png)

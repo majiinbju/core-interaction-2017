@@ -13,10 +13,12 @@
 ![Generative Rectangles](generative-rectangles.png)
 ---
 ## `✅` Requirements
-> One line of ``<style>`` CSS:<br>
-`div{`<br>
-`position: absolute;`<br>
-`}`<br>
+> One line of `<style>` CSS:
+```css
+div {
+position: absolute;
+}
+```
 > Just as we set `d.style.backgroundColor`, you can set other style properties the same way, like `d.style.width` 
 ---
 ## `💳` Extra Credit
