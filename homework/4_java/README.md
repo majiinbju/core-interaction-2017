@@ -16,7 +16,7 @@
 ```
 ---
 ## `🧪` Results
-![[console-log.png]]
+> ![[console-log.png]]
 ---
 ## `✅` Requirements
 > 1. console.log your name. make sure to put your name in "quotes". 

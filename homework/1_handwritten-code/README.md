@@ -10,7 +10,7 @@
 > Create one handwritten page of HTML code that is an unordered list of your class schedule this term at university.
 ---
 ## 🧪 Results
-![[handwritten-code.jpg]]
+> ![[handwritten-code.jpg]]
 ---
 ## ✅ Requirements
 > - Make sure your code also (at least) contains: `<html>, <head>, <title>`
