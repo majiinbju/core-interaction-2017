@@ -12,16 +12,15 @@
 > The top of the page should contain the name of the cafe and can contain any other information like address, hours, other information about the cafe. Food or drink items should be in the columns.
 ---
 ## `🧪` Results
-![Cafe Menu](cafe-menu.png)
-![Cafe Menu](cafe-menu-mobile.png)
+![[cafe-menu.png]]
+![[cafe-menu-mobile.png]]
 ---
 ## `✅` Requirements
 > - The painting should be recreated entirely using `<div>` colored with CSS background-color.
 > - Some `<div>` will be container `<div>` that are invisible, but divide up space.
 > - Use `%` units, allow the painting to take up the full canvas of the HTML page, it’s okay if it appears stretched if the window is also stretched. 
 ---
-> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> [viv1.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
-> [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
-> [email](mailto:hi@vivekbajaj.design)
+> [linkedin](https://www.linkedin.com/in/vivek-bajaj/)
 ---

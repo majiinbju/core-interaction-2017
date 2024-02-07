@@ -24,8 +24,7 @@ position: absolute;
 ## `💳` Extra Credit
 > Build an HSL random color instead of a RGB random color. The HSL string is very similar, difference being additional `%` marks, and the multiplier is different, the range of the numbers are no longer between `0` and `256`
 ---
-> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> [viv1.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
-> [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
-> [email](mailto:hi@vivekbajaj.design)
+> [linkedin](https://www.linkedin.com/in/vivek-bajaj/)
 ---

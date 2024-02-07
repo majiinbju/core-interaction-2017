@@ -16,7 +16,7 @@
 ```
 ---
 ## `🧪` Results
-![Console Log](console-log.png)
+![[console-log.png]]
 ---
 ## `✅` Requirements
 > 1. console.log your name. make sure to put your name in "quotes". 
@@ -24,8 +24,7 @@
 > 3. multiply these variables together and store the result into a third variable. (just as addition uses +, multiplication uses the * symbol)
 > 4. console log the third variable and double check the math works out.
 ---
-> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> [viv1.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
-> [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
-> [email](mailto:hi@vivekbajaj.design)
+> [linkedin](https://www.linkedin.com/in/vivek-bajaj/)
 ---

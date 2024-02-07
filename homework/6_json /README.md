@@ -44,8 +44,7 @@
 > - `“tool”`, a string: your favorite tool for creating (brush, camera, Photoshop,...)
 > - `“temperature”`, a number: your ideal outdoor temperature. in celsius (Google search can convert from Fahrenheit)
 ---
-> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> [viv1.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
-> [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
-> [email](mailto:hi@vivekbajaj.design)
+> [linkedin](https://www.linkedin.com/in/vivek-bajaj/)
 ---
