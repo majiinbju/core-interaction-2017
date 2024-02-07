@@ -26,11 +26,11 @@
 > - Since the entire movie is filmed in black and white, I decided to harness this idea to my advantage by pairing it along with colour changes used to exhibit emotion. Each hue invokes a different facet of that emotion. 
 > - The typography is directly inspired by the movie. All three phrases translate into the respective character's personality. For example, _Arash Te Mere_ is a French cuss, and thus I attributed it to the character Vinz, who displays the most aggression.
 ---
-> ![[readme/1.png]]
-> ![[readme/2.png]]
-> ![[readme/3.png]]
-> ![[readme/4.png]]
-> ![[readme5.png]] 
+> ![[/readme/1.png]]
+> ![[/readme/2.png]]
+> ![[/readme/3.png]]
+> ![[/readme/4.png]]
+> ![[/readme5.png]] 
 ---
 ## `✅` Requirements
 > - Create or find a collection of at least 40 objects. Your assignment is divided into two stages— organization and interpretation.
