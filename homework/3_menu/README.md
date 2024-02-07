@@ -12,8 +12,8 @@
 > The top of the page should contain the name of the cafe and can contain any other information like address, hours, other information about the cafe. Food or drink items should be in the columns.
 ---
 ## `🧪` Results
-![[cafe-menu.png]]
-![[cafe-menu-mobile.png]]
+> ![[cafe-menu.png]]
+> ![[cafe-menu-mobile.png]]
 ---
 ## `✅` Requirements
 > - The painting should be recreated entirely using `<div>` colored with CSS background-color.
